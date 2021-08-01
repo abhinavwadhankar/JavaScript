@@ -7,7 +7,6 @@ constructor(name,id)
     }
 
 }
-
 let emp1 =new Employee('Jhony',2001);
 let emp2 =new Employee('Pet',2002 );
 
