@@ -9,6 +9,7 @@ EmpyDetails.prototype.getName = function() {
     return this.name;
 }
 
+
 EmpyDetails.prototype.getAge = function() {
         
     return this.age;
